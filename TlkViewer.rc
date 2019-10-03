@@ -1,0 +1,4 @@
+#include "Res/TlkViewerMnu.rc"
+#include "Res/TlkViewerVer.rc"
+#include "Res/TlkViewerDlg.rc"
+#include "Res/TlkViewerRes.rc"
